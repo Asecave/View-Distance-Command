@@ -3,20 +3,20 @@
 	"id": "view-distance-command",
 	"version": "${version}",
 	"name": "View Distance Command",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Adds a command to change the view and simulation distance on a server on the run. No restart required.",
 	"authors": [
-		"Me!"
+		"Asecave"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Asecave/View-Distance-Command"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/view-distance-command/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.asecave.ExampleMod"
+			"com.asecave.ViewDistanceCommand"
 		],
 		"client": [
 			"com.asecave.ExampleModClient"
