@@ -1,4 +1,4 @@
-package com.example;
+package com.asecave;
 
 import net.fabricmc.api.ClientModInitializer;
 
